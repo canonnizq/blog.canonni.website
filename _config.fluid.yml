@@ -507,18 +507,8 @@ index:
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
     api:
       enable: true
-
-      # 请求地址
-      # Request url
-      url: "https://api.quotable.io/random?tags=freedom|literature"
-
-      # 请求方法
-      # Request method
-      # Available: GET | POST | PUT
+      url: "https://jsonplaceholder.typicode.com/todos/1"
       method: "GET"
-
-      # 请求头
-      # Request headers
       headers: {}
 
       # 从请求结果获取字符串的取值字段，最终必须是一个字符串，例如返回结果为 {"data": {"author": "fluid", "content": "An elegant theme"}}, 则取值字段为 ['data', 'content']；如果返回是列表则自动选择第一项
