@@ -1,5 +1,5 @@
 ---
-title: Which quadrant are you in?
+title: -ism
 date: 2024-08-30 21:47:30
 tags:
   - reality
