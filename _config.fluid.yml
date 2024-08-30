@@ -510,7 +510,7 @@ index:
 
       # 请求地址
       # Request url
-      url: "https://api.quotable.io/quotes/random?tags=freedom%7Cliterature"
+      url: "https://api.quotable.io/quotes/random?tags=freedom|literature"
 
       # 请求方法
       # Request method
