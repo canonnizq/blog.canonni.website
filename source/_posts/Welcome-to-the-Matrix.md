@@ -3,8 +3,6 @@ title: Welcome to the Matrix
 date: 2024-08-30 17:47:44
 categories:
   - meta
-tags:
-  - meta
 ---
 
 > Welcome to the new age, to the new age.

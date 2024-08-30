@@ -3,6 +3,6 @@ title: about
 layout: about
 ---
 
-## Testing
+## About me
 
-sdsasad
+Sup! I haven't wrote this part yet, so I guess you can call me mysterious?
