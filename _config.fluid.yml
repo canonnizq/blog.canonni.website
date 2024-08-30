@@ -510,7 +510,7 @@ index:
 
       # 请求地址
       # Request url
-      url: "https://api.quotable.io/quotes?author=George%Orwell"
+      url: "https://api.quotable.io/quotes?author=george-orwell"
 
       # 请求方法
       # Request method
