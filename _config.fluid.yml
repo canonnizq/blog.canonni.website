@@ -446,9 +446,8 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    Created by <a href="http://blog.canonni.website/about" target="_blank" rel="nofollow noopener"><span>CanonNi</span></a> and T.S. Stiffens
-    using <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
-    and the <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> theme.
+    href="https://github.com/canonnizq?tab=repositories" target="_blank" rel="nofollow noopener"><span>Source</span></a> ·
+    <a href="https://afdian.com/a/canonniblog" target="_blank" rel="nofollow noopener"><span>Support</span></a>
   '
 
   # 展示网站的 PV、UV 统计数
@@ -501,7 +500,7 @@ index:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "Failed to retrieve quote via API. Try refreshing the page."
+    text: "\"If the freedom of speech is taken away then dumb and silent may be lead, like sheep to the slaughter.\" -- George Washington"
 
     # 通过 API 接口作为首页副标题的内容，必须返回的是 JSON 格式，如果请求失败则按 text 字段显示，该功能必须先开启 typing 打字机功能
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
