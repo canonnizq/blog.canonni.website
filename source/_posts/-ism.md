@@ -17,4 +17,10 @@ Today, like all who have wasted time and energy familiarizing themselves with th
 
 In addition to an audiovisual lesson, he took a so-called test to determine his political position, which turned out to be _left-libertarianism_. In my humble opinion, these tests are no better than tarot cards; their takers answer a few dozen questions, which supposedly reveal their inner political views, which are expected to last for the rest of their life.
 
-If there's one -ism I believe in, it's _ismism_.
+Everyone has slightly different political views, which means that, no matter its nicheness, no ideology will ever be entirely representative of its believer's thoughts.
+
+For example, the Labour Party of the United Kingdom, which calls itself _social democratic_, is a ripped tent filled with various factions sparsely situated on the negative x-axis. Some follow Starmer, others follow Corbyn, while the rest follow obscure leaders whom they loosely identify with. Based on this, one can confidently say that there is no unified ideology in any political party.
+
+So why not ditch this broken system and its ugly byproduct, the political compass? Do we really need to but uniquely-minded individuals in restrictive squares, or can we return politics to its original nature: the expression of one's own thoughts?
+
+If there's one square I squish myself in, it's _ismism_.
