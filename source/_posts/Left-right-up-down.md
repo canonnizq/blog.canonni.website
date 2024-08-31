@@ -6,6 +6,7 @@ categories:
   - political
   - theory
 comments: true
+excerpt: Which direction are you headed?
 ---
 
 > This article is an extension of one I posted yesterday. If you haven't read that yet, click [here](http://blog.canonni.website/2024/08/30/-ism/).

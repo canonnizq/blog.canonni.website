@@ -3,7 +3,7 @@ title: Welcome to the Matrix
 date: 2024-08-30 17:47:44
 categories:
   - meta
-excerpt: This site, created using the Hexo framework, is where I semi-regularly post new articles, essays, and random thoughts.
+excerpt: Welcome to my blog!
 comments: true
 ---
 
