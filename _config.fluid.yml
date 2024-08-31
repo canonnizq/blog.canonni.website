@@ -814,8 +814,8 @@ valine:
   appId: PHXscQyCB5KVZsKrrITXBTGn-gzGzoHsz
   appKey: SsKKOoLNnQ7MdsmJ2F0q35YR
   path: window.location.pathname
-  placeholder:
-  avatar: 'retro'
+  placeholder: 'Comment here...'
+  avatar: 'identicon'
   meta: ['nick', 'mail', 'link']
   requiredFields: []
   pageSize: 10
