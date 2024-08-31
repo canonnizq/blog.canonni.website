@@ -811,8 +811,8 @@ gitalk:
 # Based on LeanCloud
 # See: https://valine.js.org/
 valine:
-  appId:
-  appKey:
+  appId: PHXscQyCB5KVZsKrrITXBTGn-gzGzoHsz
+  appKey: SsKKOoLNnQ7MdsmJ2F0q35YR
   path: window.location.pathname
   placeholder:
   avatar: 'retro'
