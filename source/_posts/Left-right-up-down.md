@@ -17,4 +17,6 @@ The first axis, which happens to be the most commonly referenced, is that of eco
 
 As human societies moved on, and the issues of focus changed from beheading kings to climate change, so has the axis. Nowadays, the axis almost always refers to one's position on the relationship of state and economy; full state-controlled economy sits on the far left, while pure laissez-faire is located opposite of that. In most stable democracies, this axis is what politicians and theorists refer to when discussing candidates and their respective positions.
 
-> Damn that was some fancy language. Gonna finish this later today.
+The other axis, and the lesser-discussed one, is the y-axis, which commonly represents the political sccale, from complete anarchism to Orwellian authoritarianism. Despite awkwardly intersecting with the economic scale, the y-axis rarely, or even never, refers to an individual's political positions and instead describes a nation's style of governance.
+
+And that's it, two axises, largely independent of each other, intersecting to describe one's political views.
