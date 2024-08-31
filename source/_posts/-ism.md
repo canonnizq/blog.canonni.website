@@ -6,6 +6,7 @@ tags:
 categories:
   - political
   - theory
+excerpt: If there's one square I squish myself in, it's ismism.
 comments: true
 ---
 
