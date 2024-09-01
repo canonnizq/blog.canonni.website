@@ -7,7 +7,7 @@ comments: true
 excerpt: Where on the line are you?
 ---
 
-> This article is an extension of one I posted yesterday. If you haven't read that yet, click [here](http://blog.canonni.website/2024/08/30/-ism/).
+> This article is an extension of one I posted yesterday. If you haven't read that yet, click [here](https://blog.canonni.website/2024/08/30/-ism/).
 
 When I wrote about the political compass yesterday, I only mentioned one of its core aspects: subdivisions. Re-reading the poorly-written article, I realized that it only scratches the surface of the somewhat psuedoscientific system, and that its core remains the **two axises**, which intersect and make the compass resemble a algebraic plane.
 
