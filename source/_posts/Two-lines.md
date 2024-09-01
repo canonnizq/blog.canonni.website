@@ -1,12 +1,12 @@
 ---
-title: Left, right, up, down
+title: Two lines
 date: 2024-08-31 09:03:15
 tags:
 categories:
   - political
   - theory
 comments: true
-excerpt: Which direction are you headed?
+excerpt: Where on the line are you?
 ---
 
 > This article is an extension of one I posted yesterday. If you haven't read that yet, click [here](http://blog.canonni.website/2024/08/30/-ism/).
@@ -19,4 +19,10 @@ As human societies moved on, and the issues of focus changed from beheading king
 
 The other axis, and the lesser-discussed one, is the y-axis, which commonly represents the political sccale, from complete anarchism to Orwellian authoritarianism. Despite awkwardly intersecting with the economic scale, the y-axis rarely, or even never, refers to an individual's political positions and instead describes a nation's style of governance.
 
-And that's it, two axises, largely independent of each other, intersecting to describe one's political views.
+And that's it, two axises, largely independent of each other, intersecting to describe one's political views. One may easily notice the absence of several crucial values, including religion, nationalism, and even fundamental human progress.
+
+Therefore, it is my humble opinion that the two-axis system, like the political compass itself, is broken. Everyone's views are unique, and no single person can be representated by two lines. Even newer systems, such as 8values, misrepresent core human thoughts, and the only way to truly fix this system would be to abolish it.
+
+Most people don't know where on the lines others would place them. However, they do know what they believe in, and that basic example of free thought is something no 2D graphic can fully grasp and display.
+
+So, after reading all of that, where on the line are you?
