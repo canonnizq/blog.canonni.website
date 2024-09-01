@@ -459,6 +459,8 @@ footer:
     # Data source. If use leancloud, umami, you need to set the parameter in `web_analytics`
     # Options: busuanzi | leancloud | umami
     source: "busuanzi"
+    pv_format: "{} views"
+    uv_format: ""
 
   # 国内大陆服务器的备案信息
   # For Chinese mainland website policy, other areas keep disable
@@ -816,7 +818,7 @@ valine:
   path: window.location.pathname
   placeholder: 'Comment here...'
   avatar: 'identicon'
-  meta: ['nick', 'mail', 'link']
+  meta: ['nick']
   requiredFields: []
   pageSize: 10
   lang: 'en'
