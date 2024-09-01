@@ -1,8 +1,7 @@
 ---
 title: Welcome to the Matrix
 date: 2024-08-30 17:47:44
-categories:
-  - meta
+categories: meta
 excerpt: Welcome to my blog!
 comments: true
 ---

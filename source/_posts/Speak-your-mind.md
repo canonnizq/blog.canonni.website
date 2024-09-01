@@ -1,8 +1,7 @@
 ---
 title: Speak your mind
 date: 2024-09-01 08:22:04
-categories:
-  - meta
+categories: meta
 comments: true
 excerpt: Comments are now available!
 ---

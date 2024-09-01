@@ -1,11 +1,7 @@
 ---
 title: -ism
 date: 2024-08-30 21:47:30
-tags:
-  - reality
-categories:
-  - political
-  - theory
+categories: political
 excerpt: If there's one square I squish myself in, it's ismism.
 comments: true
 ---

@@ -2,9 +2,7 @@
 title: Two lines
 date: 2024-08-31 09:03:15
 tags:
-categories:
-  - political
-  - theory
+categories: political
 comments: true
 excerpt: Where on the line are you?
 ---
