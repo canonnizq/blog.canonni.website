@@ -4,6 +4,7 @@ date: 2024-08-30 17:47:44
 categories: meta
 excerpt: Welcome to my blog!
 comments: true
+index_img: /img/thumbnails/matrix.jpg
 ---
 
 > Welcome to the new age, to the new age.

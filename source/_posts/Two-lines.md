@@ -5,6 +5,7 @@ tags:
 categories: political
 comments: true
 excerpt: Where on the line are you?
+index_img: /img/thumbnails/signpost.jpg
 ---
 
 > This article is an extension of one I posted yesterday. If you haven't read that yet, click [here](http://blog.canonni.website/2024/08/30/-ism/).

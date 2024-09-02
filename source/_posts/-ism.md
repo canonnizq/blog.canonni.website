@@ -4,6 +4,7 @@ date: 2024-08-30 21:47:30
 categories: political
 excerpt: If there's one square I squish myself in, it's ismism.
 comments: true
+index_img: /img/thumbnails/hats.jpg
 ---
 
 Humans love graphics. In fact, more people self-identify as visual learners than all other preferred methods combined. In the mysterious and chaotic world of politics, the best way to visualize ideologies and governments is a **political compass**.

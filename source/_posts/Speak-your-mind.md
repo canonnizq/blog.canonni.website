@@ -4,6 +4,7 @@ date: 2024-09-01 08:22:04
 categories: meta
 comments: true
 excerpt: Comments are now available!
+index_img: /img/thumbnails/notepad.jpg
 ---
 
 Yesterday I've implemented the comments feacture, powered using the [Valine](https://valine.js.org/en/index.html) framework.
