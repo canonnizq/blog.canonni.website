@@ -1,7 +1,7 @@
 ---
 title: NiGPT...?
 date: 2024-09-02 14:28:30
-tags: technology
+categories: technology
 comments: true
 excerpt: A failed experiment ...for now.
 index_img: /img/thumbnails/socket.jpg
