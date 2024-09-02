@@ -1,5 +1,5 @@
 ---
-title: Tech monopolies
+title: Monopolies
 date: 2024-09-01 18:31:49
 categories: technology
 comments: true
