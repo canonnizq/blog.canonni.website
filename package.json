@@ -24,5 +24,8 @@
     "hexo-theme-fluid": "^1.9.8",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-yun": "^1.10.11"
+  },
+  "overrides": {
+    "strip-ansi": "6.0.1"
   }
 }
