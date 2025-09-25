@@ -1,3 +1,6 @@
 # blog.canonni.website
 
-Like its name suggests, this repo is the source code of my tiny (and bullshitty) blog. It uses the Hexo framework and its Fluid theme and is deployed using Github Pages.
+![GitHub last commit](https://img.shields.io/github/last-commit/canonnizq/blog.canonni.website?style=flat-square) ![GitHub License](https://img.shields.io/github/license/canonnizq/blog.canonni.website?style=flat-square)
+
+
+A blog. By CanonNi. CanonNi's blog. Built with hexo and hosted with GitHub Pages.
