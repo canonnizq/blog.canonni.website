@@ -507,8 +507,8 @@ index:
       enable: true
 
       # 请求地址
-      # Request url
-      url: "https://quoteslate.vercel.app/api/quotes/random?tags=knowledge"
+      # Request url 
+      url: "https://cors-anywhere.com/https://quoteslate.vercel.app/api/quotes/random?tags=knowledge"
 
       # 请求方法
       # Request method
