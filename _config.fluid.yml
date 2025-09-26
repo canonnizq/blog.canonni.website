@@ -813,14 +813,14 @@ valine:
   appId: PHXscQyCB5KVZsKrrITXBTGn-gzGzoHsz
   appKey: SsKKOoLNnQ7MdsmJ2F0q35YR
   path: window.location.pathname
-  placeholder: 'Comment here...'
+  placeholder: 'Have something to say?'
   avatar: 'identicon'
   meta: ['nick']
   requiredFields: []
   pageSize: 10
   lang: 'en'
-  highlight: false
-  recordIP: false
+  highlight: true
+  recordIP: true
   serverURLs: ''
   emojiCDN:
   emojiMaps:

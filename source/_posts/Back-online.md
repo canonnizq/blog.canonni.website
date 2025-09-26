@@ -1,7 +1,7 @@
 ---
 title: Back online
 date: 2025-09-26 18:03:52
-tags: meta
+categories: meta
 comments: true
 excerpt: Welcome back... a year later.
 index_img: /img/thumbnails/power.jpg

@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 comments: true
-tags:
+categories:
 excerpt: 
 index_img: /img/thumbnails/FILENAME.jpg
 ---
