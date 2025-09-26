@@ -8,3 +8,5 @@ toki a! I'm [CanonNi](https://canonni.website), and blog.canonni.website is, sho
 All decent authors have a distinct style of writing. Hemingway preferred direct journalist-style lines, Joyce used flowery avant-garde language, and Christie was heavy on symbolism. I, however, am a horrible writer, and topics I cover in this blog are all over the place. To quote a good friend, "You write like an orangutan who just learned human language, and I absolutely love it."
 
 So, welcome. Welcome to my little corner of the internet that nobody cares about. Feel free to read my latest posts, dig through the archives, or try to break this little website. Good luck and have fun.
+
+<sub>All posts are available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0 license</a>. All thumbnail images are from <a href="https://unsplash.com">Unsplash</a> and freely licensed.</sub>

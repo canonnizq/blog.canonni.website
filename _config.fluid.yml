@@ -814,7 +814,7 @@ valine:
   appKey: SsKKOoLNnQ7MdsmJ2F0q35YR
   path: window.location.pathname
   placeholder: 'Have something to say?'
-  avatar: 'identicon'
+  avatar: 'hide'
   meta: ['nick']
   requiredFields: []
   pageSize: 10
