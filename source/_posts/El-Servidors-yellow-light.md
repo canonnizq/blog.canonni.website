@@ -1,5 +1,5 @@
 ---
-title: El Servidor's yellow light
+title: El Servidors yellow light
 date: 2024-09-03 17:39:22
 categories: gaming
 excerpt: A copy of one of my essays on El Servidor's Notion site.
@@ -25,4 +25,4 @@ Those who know me well personally will know that I am fond of figurative languag
 
 There is no need to worry or fear. All that you, fellow El Servidorian, need to do is to sit back, relax, and wait for the yellow light to shift its hue.
 
--- @CanonNi, September 3, 2024
+-- CanonNi, September 3, 2024
