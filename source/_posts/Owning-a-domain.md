@@ -4,7 +4,7 @@ date: 2024-09-01 11:03:15
 categories: technology
 comments: true
 excerpt: ...is great.
-index_img: /img/thumbnails/greenhouse.jpg
+index_img: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2670
 ---
 
 I'm a domain owner; as a matter of fact, I have three domains registered for personal use: canonni.com, stusoc.com, and of course, canonni.website. It is important to note that domains, despite their deceptive name, are not directly connected with websites. For that reason, only [canonni.website](canonni.website) is live on the web, and the others are all in some state of dormancy.

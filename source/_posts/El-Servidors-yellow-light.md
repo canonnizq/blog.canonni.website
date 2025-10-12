@@ -4,7 +4,7 @@ date: 2024-09-03 17:39:22
 categories: gaming
 excerpt: A copy of one of my essays on El Servidor's Notion site.
 comments: true
-index_img: /img/thumbnails/yellow.jpg
+index_img: https://images.unsplash.com/photo-1524388715307-f99db096ff5b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eWVsbG93JTIwbGlnaHR8ZW58MHwwfDB8fHwy&auto=format&fit=crop&q=60&w=900
 ---
 
 > This article is a copy of one of my essays on [El Servidor's Notion site](https://canonni.notion.site/El-Servidor-5409b5773a20482ea2d5ca908776b6c1?pvs=4).

@@ -4,7 +4,7 @@ date: 2025-09-26 18:03:52
 categories: meta
 comments: true
 excerpt: Welcome back... a year later.
-index_img: /img/thumbnails/power.jpg
+index_img: https://images.unsplash.com/photo-1624471819324-fb67e6196935?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG93ZXIlMjBidXR0b258ZW58MHwwfDB8fHwy&auto=format&fit=crop&q=60&w=900
 ---
 
 Well, uh, I suppose I should start with a greeting. Hello, world! My blog, a true masterpiece of literature loved by a grand total of zero readers, is finally back online.

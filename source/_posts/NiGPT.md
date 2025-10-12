@@ -4,7 +4,7 @@ date: 2024-09-02 14:28:30
 categories: technology
 comments: true
 excerpt: A failed experiment ...for now.
-index_img: /img/thumbnails/socket.jpg
+index_img: https://images.unsplash.com/photo-1565049981953-379c9c2a5d48?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2669
 ---
 
 We use ChatGPT and other large language models far too extensively in our modern lives. With tremendous demand comes rapidly increasing profits for the tech monopolies who run said models. Despite their elaborate, and somewhat deceptive, facades, AI chat bots are surprisingly simple to implement for small-scale non-commercial use.
