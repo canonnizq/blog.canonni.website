@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-comments: true
+toc: true
 categories:
 excerpt: 
 index_img: /img/thumbnails/FILENAME.jpg

@@ -413,17 +413,17 @@ plugins:
         web_id: 
     # Cookie notice and tracking consent
     # https://www.osano.com/cookieconsent/
-    cookie_consent:
-        # info: notice only; opt-in: load after consent; opt-out: load until denied
-        type: info
-        # Theme of the popup. Can be "block", "edgeless", or "classic"
-        theme: edgeless
-        # Whether the popup should stay static regardless of the page scrolls
-        static: false
-        # Where on the screen the consent popup should display
-        position: bottom-left
-        # URL to your site's cookie policy
-        policyLink: https://www.cookiesandyou.com/
+    # cookie_consent:
+    #     # info: notice only; opt-in: load after consent; opt-out: load until denied
+    #     type: info
+    #     # Theme of the popup. Can be "block", "edgeless", or "classic"
+    #     theme: edgeless
+    #     # Whether the popup should stay static regardless of the page scrolls
+    #     static: false
+    #     # Where on the screen the consent popup should display
+    #     position: bottom-left
+    #     # URL to your site's cookie policy
+    #     policyLink: https://www.cookiesandyou.com/
     # Enable the lightGallery and Justified Gallery plugins
     gallery: true
     # Google Analytics plugin settings
@@ -452,11 +452,11 @@ plugins:
         # Track visitors without setting cookies
         disable_cookies: false
     # Warn when required CSS features are unsupported
-    outdated_browser: false
+    outdated_browser: true
     # Enable PJAX
     pjax: true
     # Prefetch the pages of the site that the visitor hovers over or touches the links to, so that they open faster. Not when the visitor has asked to save data
-    prefetch: false
+    prefetch: true
     # Show a progress bar at top of the page on page loading
     progressbar: true
     # Statcounter statistics
