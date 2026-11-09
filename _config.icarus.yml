@@ -180,26 +180,33 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
     type: waline
-    server_url: https://waline.canonni.website
-    path: window.location.pathname                # 可选填。类似/posts/hello/的路径，或者JavaScript表达式
+    server_url: https://waline.canonni.website/
+    path: window.location.pathname
     lang: en
     locale:
-        placeholder: 'Your two cents...?'
-    emoji:
-        - '//unpkg.com/@waline/emojis@1.0.1/weibo'
+        placeholder: 'Your two cents...? Please log in if you can!'
+        nick: 'Username'
+        mail: 'Email'
+        sofa: 'No comments yet... Be the first!'
+    emoji: 
+        - https://unpkg.com/@waline/emojis@1.4.0/alus
+        - https://unpkg.com/@waline/emojis@1.4.0/bilibili
+        - https://unpkg.com/@waline/emojis@1.4.0/qq
+        - https://unpkg.com/@waline/emojis@1.4.0/tieba
+        - https://unpkg.com/@waline/emojis@1.4.0/tw-emoji
     # dark: auto
-    meta: ["nick", "mail", "link"]
+    meta: ["nick", "mail"]
     required_meta: ["nick"]
     login: enable
     word_limit: 0
-    page_size: 10
+    page_size: 100
     image_uploader: false
     highlighter: false
     tex_renderer: false
     search: false
     pageview: false
     comment: false
-    copyright: true 
+    copyright: true
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
     # "Afdian.net" donate button configurations

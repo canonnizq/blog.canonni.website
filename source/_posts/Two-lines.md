@@ -3,7 +3,6 @@ title: Two lines
 date: 2024-08-31 09:03:15
 tags:
 categories: political
-comments: true
 excerpt: Where on the line are you?
 cover: https://images.unsplash.com/photo-1660129499804-5aa4fdbe2541?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2670
 ---

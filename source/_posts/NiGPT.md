@@ -2,7 +2,6 @@
 title: NiGPT...?
 date: 2024-09-02 14:28:30
 categories: technology
-comments: true
 excerpt: A failed experiment ...for now.
 cover: https://images.unsplash.com/photo-1565049981953-379c9c2a5d48?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2669
 ---
