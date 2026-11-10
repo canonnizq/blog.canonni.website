@@ -204,7 +204,7 @@ comment:
     highlighter: false
     tex_renderer: false
     search: false
-    pageview: false
+    pageview: true
     comment: false
     copyright: true
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
@@ -489,7 +489,7 @@ plugins:
         domains: 
     # Waline page view counter, true to use the server of the Waline comments. Do not also enable the pageview option of the Waline comments, which would count the views twice
     # https://waline.js.org/en/guide/features/pageview.html
-    waline_pageview: true
+    waline_pageview: false
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/icarus-user-guide-cdn-providers/
 providers:
